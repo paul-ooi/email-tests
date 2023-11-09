@@ -1,0 +1,75 @@
+<mjml>
+  <mj-head>
+    <mj-title>Edward Johnson - Giving Tuesday</mj-title>
+    <mj-attributes>
+      <mj-class name="images" width="100%" inner-padding="1rem"/>
+      <mj-class name="btn" background-color="green" color="#FFF" text-transform="uppercase" font-weight="800" font-size="18px" letter-spacing="1px" vertical-align="middle"/>
+      <mj-class name="tight" padding="0"/>
+      <mj-all padding="0px" font-family="helvetica, sans-serif" background-color="#FFF" font-size="14px" line-height="20px"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-left="20px" padding-right="20px">
+      <mj-column width="100%">
+        <mj-text mj-class="tight" font-size="8px" line-height="20px" align="center">
+          <h1>Join Edward Johnson School Council today in celebrating <em>#GivingTuesday</em>, <small>a day dedicated to charitable giving.</small></h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-group>
+        <mj-column vertical-align="middle" width="50%" padding-bottom="10px">
+          <mj-image  mj-class="images" src="https://www.ugdsb.ca/johnson/wp-content/uploads/sites/32/2023/05/MAIN-LOGO-1-1.jpg" alt="École Edward Johnson Public School" />
+        </mj-column>
+        <mj-column vertical-align="middle" width="50%">
+          <mj-image  mj-class="images" src="./assets/img/giving-tuesday.jpg" alt="giving tuesday" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-left="20px" padding-right="20px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>We know there are so many charities deserving of your support at this time of year. As you plan your year-end giving <strong>we hope you will consider making a donation to Edward Johnson Public School(EJPS).</strong></p>
+          <p>Fundraising for our new playground is well underway, our council is committed to improve the mental and health well-being of students at EJPS. This year in collaboration with our annual Winter Basket giveaway we are reaching out to parents, grandparents and guardians to commit to a small donation of $10 per month.</p>
+          <p>With the assistance of Canada Helps and the Upper Grand Learning Foundation, EJPS can directly benefit from your donations.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text align="center">
+          <h2>To make your online donation:</h2>
+          <ul style="padding-inline: 10px; text-align: left">
+            <li>Click the <strong>DONATE</strong> button below</li>
+            <li>Select monthly donation</li>
+            <li>Select <strong>Edward Johnson PS</strong> in the drop down menu</li>
+            <li>Fill in required fields to complete the donation</li>
+          </ul>
+        </mj-text>
+        <mj-button mj-class="btn" href="https://www.canadahelps.org/en/charities/upper-grand-learning-foundation/">
+          Donate
+        </mj-button>
+      </mj-column>
+      <mj-column width="100%" padding-top="20px">
+        <mj-text>
+          <p>If you have already made a donation to Edward Johnson Public School, thank you so much. Your support for EJPS has helped in a very meaningful way. All funds will go directly to the Edward Johnson School Council which directly supports staff and students.</p>
+          <p>On behalf of the Edward Johnson School Council, thank you!</p>
+          <p><strong>Natasha Papadedes</strong>,<br><em>EJSC Chair</em></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-divider align="center" width="100%" border-style="solid" border-width="2px" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" inner-padding="15px">
+          <mj-social-element href="https://www.facebook.com/groups/1721631101383972" src="/assets/social/fb-logo.jpg" alt='Edward Johnson School Council Facebook group'>
+          </mj-social-element>
+          <mj-social-element href="https://www.twitter.com/EJ_PS" src="/assets/social/logo-black.jpg" alt='Edward Johnson School Council Twitter profile'>
+          </mj-social-element>
+          <mj-social-element href="https://www.ugdsb.ca/johnson/school-council/" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Globe_icon_2.svg" alt='Edward Johnson School Council website'>
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
