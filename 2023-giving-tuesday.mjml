@@ -3,7 +3,7 @@
     <mj-title>Edward Johnson - Giving Tuesday</mj-title>
     <mj-attributes>
       <mj-class name="images" width="100%" inner-padding="1rem"/>
-      <mj-class name="btn" background-color="green" color="#FFF" text-transform="uppercase" font-weight="800" font-size="18px" letter-spacing="1px" vertical-align="middle"/>
+      <mj-class name="btn" border="#ffb000 4px solid" border-radius="8px" background-color="#00a650" color="#000" text-transform="uppercase" font-weight="800" font-size="18px" letter-spacing="1px" vertical-align="middle"/>
       <mj-class name="tight" padding="0"/>
       <mj-all padding="0px" font-family="helvetica, sans-serif" background-color="#FFF" font-size="14px" line-height="20px"/>
     </mj-attributes>
