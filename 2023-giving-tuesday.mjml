@@ -19,10 +19,10 @@
     <mj-section padding-top="0px" padding-bottom="0px">
       <mj-group>
         <mj-column vertical-align="middle" width="50%" padding-bottom="10px">
-          <mj-image  mj-class="images" src="https://www.ugdsb.ca/johnson/wp-content/uploads/sites/32/2023/05/MAIN-LOGO-1-1.jpg" alt="École Edward Johnson Public School" />
+          <mj-image align="right" padding-right="30px" mj-class="images" src="https://www.ugdsb.ca/johnson/wp-content/uploads/sites/32/2023/05/MAIN-LOGO-1-1.jpg" alt="École Edward Johnson Public School" />
         </mj-column>
-        <mj-column vertical-align="middle" width="50%">
-          <mj-image  mj-class="images" src="./assets/img/giving-tuesday.jpg" alt="giving tuesday" />
+        <mj-column vertical-align="middle">
+          <mj-image align="left" width="200px" mj-class="images" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/img/giving-tuesday.jpg" alt="giving tuesday" />
         </mj-column>
       </mj-group>
     </mj-section>
@@ -62,9 +62,9 @@
       </mj-column>
       <mj-column width="100%">
         <mj-social font-size="15px" icon-size="30px" mode="horizontal" inner-padding="15px">
-          <mj-social-element href="https://www.facebook.com/groups/1721631101383972" src="/assets/social/fb-logo.jpg" alt='Edward Johnson School Council Facebook group'>
+          <mj-social-element href="https://www.facebook.com/groups/1721631101383972" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/social/fb-logo.jpg" alt='Edward Johnson School Council Facebook group'>
           </mj-social-element>
-          <mj-social-element href="https://www.twitter.com/EJ_PS" src="/assets/social/logo-black.jpg" alt='Edward Johnson School Council Twitter profile'>
+          <mj-social-element href="https://www.twitter.com/EJ_PS" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/social/logo-black.jpg" alt='Edward Johnson School Council Twitter profile'>
           </mj-social-element>
           <mj-social-element href="https://www.ugdsb.ca/johnson/school-council/" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Globe_icon_2.svg" alt='Edward Johnson School Council website'>
           </mj-social-element>
