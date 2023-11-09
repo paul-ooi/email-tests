@@ -1,11 +1,15 @@
 {
   "packages": [],
   "options": {
-    "collapseWhitespace": true,
-    "minifyCSS": true,
-    "removeEmptyAttributes": true,
+    "beautify" : false,
+    "minifyOptions": {
+      "collapseWhitespace": true,
+      "minifyCSS": true,
+      "caseSensitive": true,
+      "removeEmptyAttributes": true
+    },
     "juiceOptions": {
-      "preserveImportant": true
+      "preserveImportant": false
     }
   }
 }
