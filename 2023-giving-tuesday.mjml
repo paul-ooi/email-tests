@@ -59,9 +59,12 @@
     <mj-section>
       <mj-column width="90%">
         <mj-divider align="center" width="100%" border-style="solid" border-width="2px" />
+        <mj-text padding="0" font-size="10px" align="center">
+          <h3 style="font-weight: 400;">Have questions or want to give feedback, find us here:</h3>
+        </mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal" inner-padding="15px">
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" inner-padding="8px">
           <mj-social-element href="https://www.facebook.com/groups/1721631101383972" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/social/fb-logo.jpg" alt='Edward Johnson School Council Facebook group'>
           </mj-social-element>
           <mj-social-element href="https://www.twitter.com/EJ_PS" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/social/logo-black.jpg" alt='Edward Johnson School Council Twitter profile'>
