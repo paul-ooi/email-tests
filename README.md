@@ -1,8 +1,9 @@
 # Email templates
-Leveraging MJML framework
+Create Email templates using [MJML framework](https://github.com/mjmlio/mjml)
 
 ## Email Tests
-Create Email templates using [MJML](https://github.com/mjmlio/mjml)
+Use [Putsmail](https://putsmail.com/) to send test emails
+
 
 ## To build new templates
 - Create new file with `.mjml` extension
