@@ -38,13 +38,13 @@
         <mj-text align="center">
           <h2>To make your online donation:</h2>
           <ul style="padding-inline: 10px; text-align: left">
-            <li>Click the <strong>DONATE</strong> button below</li>
-            <li>Select monthly donation</li>
-            <li>Select <strong>Edward Johnson PS</strong> in the drop down menu</li>
-            <li>Fill in required fields to complete the donation</li>
+            <li>Click the <strong>DONATE</strong> button <small>(Opens a CanadaHelps donation page)</small></li>
+            <li>Select <em>Donate Monthly</em></li>
+            <li>Fill in required fields</li>
+            <li>Submit your taxable donation by clicking <em>Complete Donation Now</em></li>
           </ul>
         </mj-text>
-        <mj-button mj-class="btn" href="https://www.canadahelps.org/en/charities/upper-grand-learning-foundation/">
+        <mj-button mj-class="btn" href="https://www.canadahelps.org/en/dn/96221">
           Donate
         </mj-button>
       </mj-column>
