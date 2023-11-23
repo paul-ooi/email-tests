@@ -30,7 +30,7 @@
       <mj-column width="100%">
         <mj-text>
           <p>We know there are so many charities deserving of your support at this time of year. As you plan your year-end giving <strong>we hope you will consider making a donation to Edward Johnson Public School(EJPS).</strong></p>
-          <p>Fundraising for our new playground is well underway, our council is committed to improve the mental and health well-being of students at EJPS. This year in collaboration with our annual Winter Basket giveaway we are reaching out to parents, grandparents and guardians to commit to a small donation of $10 per month.</p>
+          <p>Fundraising for our new playground is well underway, our council is committed to improve the mental health and well-being of students at EJPS. This year in collaboration with our annual Winter Basket giveaway we are reaching out to parents, grandparents and guardians to commit to a small donation of $10 per month.</p>
           <p>With the assistance of Canada Helps and the Upper Grand Learning Foundation, EJPS can directly benefit from your donations.</p>
         </mj-text>
       </mj-column>
@@ -52,8 +52,12 @@
         <mj-text>
           <p>If you have already made a donation to Edward Johnson Public School, thank you so much. Your support for EJPS has helped in a very meaningful way. All funds will go directly to the Edward Johnson School Council which directly supports staff and students.</p>
           <p>On behalf of the Edward Johnson School Council, thank you!</p>
+        </mj-text>
+          <mj-image align="right" padding-right="30px" mj-class="images" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/img/signature.jpg" alt="École Edward Johnson Public School" />
+        <mj-text>
           <p><strong>Natasha Papadedes</strong>,<br><em>EJSC Chair</em></p>
         </mj-text>
+          
       </mj-column>
     </mj-section>
     <mj-section>
