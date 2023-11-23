@@ -53,7 +53,7 @@
           <p>If you have already made a donation to Edward Johnson Public School, thank you so much. Your support for EJPS has helped in a very meaningful way. All funds will go directly to the Edward Johnson School Council which directly supports staff and students.</p>
           <p>On behalf of the Edward Johnson School Council, thank you!</p>
         </mj-text>
-          <mj-image align="right" padding-right="30px" mj-class="images" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/img/signature.jpg" alt="École Edward Johnson Public School" />
+          <mj-image align="left" height="46px" width="191px" padding-right="30px" mj-class="images" src="https://raw.githubusercontent.com/paul-ooi/email-tests/main/assets/img/signature.jpg" alt="Natasha Papadedes digital signature" />
         <mj-text>
           <p><strong>Natasha Papadedes</strong>,<br><em>EJSC Chair</em></p>
         </mj-text>
