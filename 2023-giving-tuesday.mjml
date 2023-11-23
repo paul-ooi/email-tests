@@ -12,7 +12,7 @@
     <mj-section padding-left="20px" padding-right="20px">
       <mj-column width="100%">
         <mj-text mj-class="tight" font-size="8px" line-height="20px" align="center">
-          <h1>Join Edward Johnson School Council today in celebrating <em>#GivingTuesday</em>, <small>a day dedicated to charitable giving.</small></h1>
+          <h1>Join Edward Johnson School Council tomorrow in celebrating <em>#GivingTuesday</em>, <small>a day dedicated to charitable giving.</small></h1>
         </mj-text>
       </mj-column>
     </mj-section>
