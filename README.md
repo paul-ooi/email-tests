@@ -2,7 +2,7 @@
 Create Email templates using [MJML framework](https://github.com/mjmlio/mjml)
 
 ## Email Tests
-Use [Putsmail](https://putsmail.com/) to send test emails
+Use [Testi](https://testi.at/) to send test emails
 - Copy and paste HTML code into the body of the Test email
 - Add your recipients to Test 
 - Make sure your email looks great on mobile and Desktop
